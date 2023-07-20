@@ -1,0 +1,9 @@
+name: mtenv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=2.7
+  - numpy
+  - scipy
+  - setuptools
