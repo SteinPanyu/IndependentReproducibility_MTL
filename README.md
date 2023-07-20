@@ -6,11 +6,12 @@ We facilitate this by categorizing individuals into clusters based on similar pe
 
 ## Installation
 
-Provide instructions on how to install and set up the project.
+Each section of this repository requires a seperate enviornment due to the use of a personalized versions of common libraries.
 
-## Usage
+## Contributer
 
-Explain how to use the project or provide examples.
+Panyu Zhang
+Uzair Ahmed
 
 ## License
 
