@@ -18,4 +18,4 @@ Mention the license under which the project is distributed.
 
 ## Acknowledgments
 
-Give credit to any resources, contributors, or references used in the project.
+_Chen, M., Wang, Z., Zhao, Z., Zhang, W., Guo, X., Shen, J., ... & Ning, G. (2021, August). Task-wise split gradient boosting trees for multi-center diabetes prediction. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (pp. 2663-2673)._

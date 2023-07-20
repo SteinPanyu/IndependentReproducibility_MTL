@@ -91,13 +91,15 @@ if __name__ == '__main__':
     y_real = dtest.get_label()
     y_score = bst.predict(dtest, ntree_limit=bst.best_ntree_limit)
     
+    # Predict binary outcomes instead of probabilities
+    y_pred = [1 if score >= 0.5 else 0 for score in y_score]
 
 
     # compute ROC
     fpr, tpr, thresholds = roc_curve(y_real, y_score, pos_label=1)
     all_roc_auc = auc(fpr, tpr)
     all_logloss = log_loss(y_real, y_score)
-    # all_f1_score = f1_score(y_real, y_pred)
+    all_f1_score = f1_score(y_real, y_pred)
 
     # output
     fout.write('\n')
