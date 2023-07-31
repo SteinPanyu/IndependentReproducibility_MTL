@@ -8,9 +8,9 @@ We facilitate this by categorizing individuals into clusters based on similar pe
 
 Each section of this repository requires a seperate enviornment due to the use of a personalized versions of common libraries.
 
-## Contributer
+## Contributors
 
-Panyu Zhang
+Panyu Zhang,
 Uzair Ahmed
 
 ## License
@@ -20,3 +20,5 @@ Mention the license under which the project is distributed.
 ## Acknowledgments
 
 _Chen, M., Wang, Z., Zhao, Z., Zhang, W., Guo, X., Shen, J., ... & Ning, G. (2021, August). Task-wise split gradient boosting trees for multi-center diabetes prediction. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (pp. 2663-2673)._
+
+_Taylor, S., Jaques, N., Nosakhare, E., Sano, A., & Picard, R. (2017). Personalized multitask learning for predicting tomorrow's mood, stress, and health. IEEE Transactions on Affective Computing, 11(2), 200-213._
