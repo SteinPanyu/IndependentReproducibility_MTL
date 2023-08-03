@@ -62,15 +62,15 @@ if __name__ == '__main__':
         'which_task_value': 2,
         'baseline_alpha': 1.0,
         'baseline_lambda': 1.0,
-        'tasks_list_': (0, 1, 2, 3, 4, 5, 6),
-        'task_num_for_init_vec': 7,
-        'task_num_for_OLF': 7,
+        'tasks_list_': (0, 1),
+        'task_num_for_init_vec': 2,
+        'task_num_for_OLF': 2,
     }
 
     folder = args.folder
 
     mkdir(folder)
-    data_folder = './l_data_2/'
+    data_folder = './l_data/'
 
     fout = open(folder+'result_logo.csv', 'a')
 
@@ -78,7 +78,7 @@ if __name__ == '__main__':
     final_total_logloss = np.empty(0)
     final_total_f1 = np.empty(0)
 
-    for event in range(4):
+    for event in range(14):
 
         # load data
         dtrain = xgb.DMatrix(data_folder + '{}_train.data'.format(event))
@@ -95,18 +95,6 @@ if __name__ == '__main__':
 
         y_real = dtest.get_label()
         y_score = bst.predict(dtest, ntree_limit=bst.best_ntree_limit)
-
-        fpr, tpr, thresholds = roc_curve(y_real, y_score)
-        # calculate the Euclidean distance for each point to the top-left corner (0,1)
-        distances = np.sqrt((1-tpr)**2 + fpr**2)
-
-        # find the smallest distance
-        index = np.argmin(distances)
-
-        # find the optimal threshold
-        optimal_threshold = thresholds[index]
-
-        print("Optimal threshold value:", optimal_threshold)
         
         # Predict binary outcomes instead of probabilities
         y_pred = [1 if score >= 0.5 else 0 for score in y_score]
