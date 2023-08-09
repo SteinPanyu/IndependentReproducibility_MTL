@@ -1,6 +1,6 @@
 # Multi Tasking with Task-wise Split Gradient Boosting Trees
 
-This is is the implementation of the _Task-wise split gradient boosting trees for multi-center diabetes prediction. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (pp. 2663-2673)._ Their implementation code for this is found [Here](https://github.com/felixwzh/MT-GBDT "GitHub MT-GBDT").
+This is the Multi Task Gradidient Boosting Algorithm described in _Task-wise split gradient boosting trees for multi-center diabetes prediction. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (pp. 2663-2673)._ Their implementation code for this is found [Here](https://github.com/felixwzh/MT-GBDT "GitHub MT-GBDT").
 
 ## Installation
 
@@ -11,9 +11,10 @@ conda env create -f environment.yml
 conda activate mtenv
 ```
 
-Then you need to set the enviornment up with the make file.
+Then you need to set the ePnviornment up with the make file.
 
 ```
+cd MT-GBDT
 make	
 cd python-package	
 python setup.py install

@@ -70,15 +70,15 @@ if __name__ == '__main__':
     folder = args.folder
 
     mkdir(folder)
-    data_folder = './l_data_2/'
+    data_folder = './data_baseline/'
 
-    fout = open(folder+'result_logo.csv', 'a')
+    fout = open(folder+'result_baseline.csv', 'a')
 
     final_total_auc = np.empty(0)
     final_total_logloss = np.empty(0)
     final_total_f1 = np.empty(0)
 
-    for event in range(4):
+    for event in range(2):
 
         # load data
         dtrain = xgb.DMatrix(data_folder + '{}_train.data'.format(event))

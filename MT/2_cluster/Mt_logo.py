@@ -63,16 +63,16 @@ if __name__ == '__main__':
         'baseline_alpha': 1.0,
         'baseline_lambda': 1.0,
         'tasks_list_': (0, 1),
-        'task_num_for_init_vec': 2,
+        'task_num_for_init_vec': 3,
         'task_num_for_OLF': 2,
     }
 
     folder = args.folder
 
     mkdir(folder)
-    data_folder = './l_data/'
+    data_folder = './data_baseline/'
 
-    fout = open(folder+'result_logo.csv', 'a')
+    fout = open(folder+'result_baseline.csv', 'a')
 
     final_total_auc = np.empty(0)
     final_total_logloss = np.empty(0)

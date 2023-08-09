@@ -70,9 +70,9 @@ if __name__ == '__main__':
     folder = args.folder
 
     mkdir(folder)
-    data_folder = './l_data/'
+    data_folder = './data_baseline/'
 
-    fout = open(folder+'result_logo.csv', 'a')
+    fout = open(folder+'result_baseline.csv', 'a')
 
     final_total_auc = np.empty(0)
     final_total_logloss = np.empty(0)

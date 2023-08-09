@@ -62,23 +62,23 @@ if __name__ == '__main__':
         'which_task_value': 2,
         'baseline_alpha': 1.0,
         'baseline_lambda': 1.0,
-        'tasks_list_': (0, 1),
-        'task_num_for_init_vec': 2,
-        'task_num_for_OLF': 2,
+        'tasks_list_': (0, 1, 2, 3, 4),
+        'task_num_for_init_vec': 6,
+        'task_num_for_OLF': 5,
     }
 
     folder = args.folder
 
     mkdir(folder)
-    data_folder = './l_data/'
+    data_folder = './data_baseline/'
 
-    fout = open(folder+'result_logo.csv', 'a')
+    fout = open(folder+'result_baseline.csv', 'a')
 
     final_total_auc = np.empty(0)
     final_total_logloss = np.empty(0)
     final_total_f1 = np.empty(0)
 
-    for event in range(14):
+    for event in range(5):
 
         # load data
         dtrain = xgb.DMatrix(data_folder + '{}_train.data'.format(event))
