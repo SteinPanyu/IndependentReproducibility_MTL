@@ -1,0 +1,38 @@
+
+task_gain_margin,0.0,baseline_alpha,1.0,tasks_list_,(0, 1, 2, 3, 4),how_task_split,0,seed,27,early_stopping_rounds,200,silent,1,min_task_gain,0.0,task_num_for_init_vec,6,nthread,10,min_child_weight,1,use_task_gain_self,0,objective,binary:logistic,when_task_split,1,max_depth,6,reg_alpha,0,eval_metric,auc,colsample_bylevel,1,scale_pos_weight,1,learning_rate,0.3,task_num_for_OLF,5,n_estimators,1000,max_neg_sample_ratio,0.4,tree_method,exact,baseline_lambda,1.0,colsample_bytree,1,subsample,1,reg_lambda,1,debug,0,which_task_value,2,gamma,0,
+task,auc,
+0,0.634146341463,1.02195260937
+1,0.724590163934,0.598231218304
+2,0.620535714286,0.582369385908
+3,0.5,0
+4,0.858173076923,0.452455717154
+Round0, ROCAUC0.579957356077, LOGLOSS0.973136885842, F1 SCORE0.49535750593,
+
+task_gain_margin,0.0,baseline_alpha,1.0,tasks_list_,(0, 1, 2, 3, 4),how_task_split,0,seed,27,early_stopping_rounds,200,silent,1,min_task_gain,0.0,task_num_for_init_vec,6,nthread,10,min_child_weight,1,use_task_gain_self,0,objective,binary:logistic,when_task_split,1,max_depth,6,reg_alpha,0,eval_metric,auc,colsample_bylevel,1,scale_pos_weight,1,learning_rate,0.3,task_num_for_OLF,5,n_estimators,1000,max_neg_sample_ratio,0.4,tree_method,exact,baseline_lambda,1.0,colsample_bytree,1,subsample,1,reg_lambda,1,debug,0,which_task_value,2,gamma,0,
+task,auc,
+0,0.64837398374,0.70742729116
+1,0.794285714286,0.738863286556
+2,0.620833333333,0.785794352605
+3,0.602693602694,0.64019349568
+4,0.586680761099,0.677943756706
+Round1, ROCAUC0.570567986231, LOGLOSS0.941978080995, F1 SCORE0.478172588832,
+
+task_gain_margin,0.0,baseline_alpha,1.0,tasks_list_,(0, 1, 2, 3, 4),how_task_split,0,seed,27,early_stopping_rounds,200,silent,1,min_task_gain,0.0,task_num_for_init_vec,6,nthread,10,min_child_weight,1,use_task_gain_self,0,objective,binary:logistic,when_task_split,1,max_depth,6,reg_alpha,0,eval_metric,auc,colsample_bylevel,1,scale_pos_weight,1,learning_rate,0.3,task_num_for_OLF,5,n_estimators,1000,max_neg_sample_ratio,0.4,tree_method,exact,baseline_lambda,1.0,colsample_bytree,1,subsample,1,reg_lambda,1,debug,0,which_task_value,2,gamma,0,
+task,auc,
+0,0.568181818182,1.45399038559
+1,0.638888888889,0.814420511983
+2,0.6359375,0.886087335292
+3,0.544217687075,0.750853558316
+4,0.639498432602,0.625800856377
+Round2, ROCAUC0.582760141093, LOGLOSS1.28935429111, F1 SCORE0.510572619231,
+
+task_gain_margin,0.0,baseline_alpha,1.0,tasks_list_,(0, 1, 2, 3, 4),how_task_split,0,seed,27,early_stopping_rounds,200,silent,1,min_task_gain,0.0,task_num_for_init_vec,6,nthread,10,min_child_weight,1,use_task_gain_self,0,objective,binary:logistic,when_task_split,1,max_depth,6,reg_alpha,0,eval_metric,auc,colsample_bylevel,1,scale_pos_weight,1,learning_rate,0.3,task_num_for_OLF,5,n_estimators,1000,max_neg_sample_ratio,0.4,tree_method,exact,baseline_lambda,1.0,colsample_bytree,1,subsample,1,reg_lambda,1,debug,0,which_task_value,2,gamma,0,
+task,auc,
+0,0.516369047619,0.791911827481
+1,0.518617021277,0.542819638834
+2,0.5,0
+3,0.545918367347,0.642807319152
+4,0.570472163495,0.679713746827
+Round3, ROCAUC0.525970825941, LOGLOSS1.01678710204, F1 SCORE0.488492902446,
+TOTAL All round, ROCAUC[0.57995736 0.57056799 0.58276014 0.52597083], LOGLOSS[0.97313689 0.94197808 1.28935429 1.0167871 ], F1 SCORE[0.49535751 0.47817259 0.51057262 0.4884929 ],
+Mean Auc 0.564814077336,  Mean logloss 1.05531409, Mean F1 0.49314890411,
