@@ -62,9 +62,9 @@ if __name__ == '__main__':
         'which_task_value': 2,
         'baseline_alpha': 1.0,
         'baseline_lambda': 1.0,
-        'tasks_list_': (0, 1),
-        'task_num_for_init_vec': 3,
-        'task_num_for_OLF': 2,
+        'tasks_list_': (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10),
+        'task_num_for_init_vec': 11,
+        'task_num_for_OLF': 10,
     }
 
     folder = args.folder

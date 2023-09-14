@@ -63,8 +63,9 @@ if __name__ == '__main__':
         'baseline_alpha': 1.0,
         'baseline_lambda': 1.0,
         'tasks_list_': (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44),
-        'task_num_for_init_vec': 46,
-        'task_num_for_OLF': 45,
+        'task_num_for_init_vec': 45,
+        'task_num_for_OLF': 44,
+        'num_task': 45,
     }
 
     folder = args.folder
@@ -73,8 +74,6 @@ if __name__ == '__main__':
     data_folder = './data_MT/'
 
     fout = open(folder+'result_baseline.csv', 'a')
-
-    vals = [None] * 45
 
     final_total_auc = np.empty(0)
     final_total_logloss = np.empty(0)
