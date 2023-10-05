@@ -1,0 +1,682 @@
+Itterations: 3456
+ ROCAUC:0.523510971787, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.504702194357, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.539184952978, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.504702194357, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.542319749216, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.554858934169, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.573667711599, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.557993730408, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.626959247649, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.673981191223, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.548589341693, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.532915360502, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.639498432602, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.551724137931, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.573667711599, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.730407523511, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.648902821317, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.550156739812, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.711598746082, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.598746081505, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.550156739812, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.641065830721, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.74921630094, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.567398119122, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.615987460815, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.724137931034, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.51724137931, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.699059561129, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.680250783699, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.592476489028, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.554858934169, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.611285266458, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.692789968652, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.689655172414, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.652037617555, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.548589341693, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.648902821317, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.633228840125, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.551724137931, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.542319749216, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.551724137931, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.510971786834, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.554858934169, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.733542319749, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.542319749216, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.608150470219, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.445141065831, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.545454545455, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.526645768025, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.539184952978, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.581504702194, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.507836990596, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.507836990596, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.543887147335, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.617554858934, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.605015673981, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.595611285266, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.543887147335, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.532915360502, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.633228840125, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.550156739812, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.664576802508, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.683385579937, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.598746081505, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.626959247649, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.699059561129, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.686520376176, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.523510971787, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.576802507837, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.611285266458, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.501567398119, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.702194357367, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.584639498433, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.584639498433, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.664576802508, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.584639498433, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.633228840125, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.652037617555, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.595611285266, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.545454545455, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.592476489028, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.686520376176, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.664576802508, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.551724137931, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.727272727273, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.576802507837, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.587774294671, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.611285266458, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.64263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.583072100313, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.583072100313, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.639498432602, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.542319749216, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.652037617555, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.727272727273, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.573667711599, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.717868338558, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.733542319749, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.570532915361, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.724137931034, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.598746081505, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.705329153605, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.727272727273, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.673981191223, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.852664576803, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.69592476489, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.746081504702, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.711598746082, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.836990595611, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.689655172414, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.595611285266, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.721003134796, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.711598746082, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.570532915361, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.697492163009, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.648902821317, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.639498432602, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.611285266458, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.664576802508, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.697492163009, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.545454545455, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.639498432602, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.583072100313, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.708463949843, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.680250783699, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.605015673981, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.699059561129, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.692789968652, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.592476489028, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.708463949843, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.71473354232, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.554858934169, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.699059561129, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.692789968652, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.652037617555, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.702194357367, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.694357366771, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.697492163009, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.576802507837, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.702194357367, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.733542319749, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.697492163009, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.53605015674, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.608150470219, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.694357366771, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.677115987461, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.691222570533, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.581504702194, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.601880877743, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.694357366771, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.601880877743, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.724137931034, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.691222570533, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.736677115987, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.655172413793, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.65987460815, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.631661442006, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.71473354232, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.622257053292, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.648902821317, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.631661442006, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.686520376176, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.724137931034, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.761755485893, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.683385579937, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.64263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.705329153605, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.752351097179, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.736677115987, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.686520376176, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.664576802508, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.598746081505, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.680250783699, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.739811912226, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.598746081505, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.677115987461, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.702194357367, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.534482758621, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.752351097179, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.71473354232, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.652037617555, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.69592476489, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.655172413793, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.793103448276, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.666144200627, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.66144200627, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.622257053292, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.686520376176, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.739811912226, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.647335423197, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.752351097179, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.730407523511, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.69592476489, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.689655172414, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.587774294671, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.664576802508, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.573667711599, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.639498432602, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.652037617555, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.683385579937, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.742946708464, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.724137931034, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:0.9, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.639498432602, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.575235109718, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.66144200627, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.692789968652, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.526645768025, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.575235109718, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.66144200627, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.739811912226, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.567398119122, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.562695924765, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.717868338558, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.727272727273, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.739811912226, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.626959247649, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.562695924765, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.683385579937, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.523510971787, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.586206896552, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.670846394984, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.583072100313, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.677115987461, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.648902821317, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.69592476489, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.583072100313, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.586206896552, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.71473354232, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.548589341693, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.595611285266, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.53605015674, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.71473354232, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.655172413793, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.534482758621, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.58934169279, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.796238244514, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.692789968652, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.730407523511, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.711598746082, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.626959247649, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.752351097179, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.570532915361, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.708463949843, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.626959247649, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.71473354232, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.617554858934, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.796238244514, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.76802507837, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.575235109718, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.71473354232, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.771159874608, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.554858934169, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.796238244514, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.739811912226, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.708463949843, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.677115987461, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.82131661442, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.82131661442, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.805642633229, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.64263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.802507836991, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.717868338558, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.686520376176, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.617554858934, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.705329153605, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.702194357367, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.601880877743, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.69592476489, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.69592476489, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.708463949843, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.684952978056, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.617554858934, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.736677115987, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.727272727273, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.724137931034, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.64263322884, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.689655172414, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.761755485893, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.592476489028, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.622257053292, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.746081504702, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.539184952978, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.639498432602, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.69592476489, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.548589341693, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.622257053292, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.680250783699, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.539184952978, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.664576802508, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.808777429467, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.617554858934, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.761755485893, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.692789968652, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.733542319749, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.620689655172, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.699059561129, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.673981191223, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.706896551724, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.680250783699, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.692789968652, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.733542319749, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.667711598746, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.736677115987, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.755485893417, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.628526645768, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.702194357367, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.76802507837, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.658307210031, max_depth:9, learning_rate:0.5, n_estimators:200, subsample:1.0, colsample_bytree:1.0, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.595611285266, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.605015673981, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.495297805643, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.611285266458, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.53605015674, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.489028213166, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.576802507837, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.426332288401, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.507836990596, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.532915360502, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.626959247649, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.601880877743, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.470219435737, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.655172413793, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.514106583072, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.655172413793, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.520376175549, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.652037617555, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.473354231975, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:5, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.611285266458, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.576802507837, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.579937304075, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.551724137931, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.614420062696, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.542319749216, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.611285266458, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.523510971787, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.598746081505, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.561128526646, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.526645768025, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.570532915361, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.601880877743, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.479623824451, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.633228840125, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.467084639498, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.605015673981, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.570532915361, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.495297805643, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.567398119122, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.454545454545, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:6, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.584639498433, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.583072100313, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.551724137931, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.526645768025, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.539184952978, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.542319749216, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.584639498433, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.66144200627, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.526645768025, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.576802507837, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.564263322884, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:0.9, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.590909090909, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.510971786834, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.592476489028, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.551724137931, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.454545454545, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.645768025078, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.590909090909, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.514106583072, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.636363636364, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.592476489028, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.53605015674, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:0.9, min_child_weight:7, colsample_bylevel:1.0, gamma:0.45, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.623824451411, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.567398119122, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:0.1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.630094043887, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.601880877743, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:12, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+ ROCAUC:0.570532915361, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.4, reg_alpha:1, reg_lambda:100, max_neg_sample_ratio:0.5, early_stopping_rounds:80
+GARBAGE COLLECTED
+ ROCAUC:0.673981191223, max_depth:9, learning_rate:0.05, n_estimators:200, subsample:0.8, colsample_bytree:1.0, min_child_weight:5, colsample_bylevel:0.9, gamma:0.45, reg_alpha:0.1, reg_lambda:10, max_neg_sample_ratio:0.5, early_stopping_rounds:80
