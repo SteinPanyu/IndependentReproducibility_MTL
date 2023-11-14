@@ -3,9 +3,7 @@
 
 import xgboost as xgb
 import random
-from sklearn.metrics import log_loss
-from sklearn.metrics import roc_curve, auc
-from sklearn.metrics import f1_score
+from sklearn.metrics import roc_curve, auc, log_loss, f1_score, accuracy_score, precision_score, recall_score
 import numpy as np
 import argparse
 import os
@@ -27,22 +25,22 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument('-f', '--folder', type=str, default='./')  # folder that stores the log
-    parser.add_argument('-s', '--seed', type=int, default=27)
+    parser.add_argument('-s', '--seed', type=int, default=42)
 
     args = parser.parse_args()
 
     random.seed(args.seed)
 
     param = {
-        "early_stopping_rounds": 200,
+        "early_stopping_rounds": 50,
         "reg_alpha": 0,
         "colsample_bytree": 1,
         "colsample_bylevel": 1,
         "scale_pos_weight": 1,
-        "learning_rate": 0.3,
+        "learning_rate": 0.01,
         "nthread": 10,
         "min_child_weight": 1,
-        "n_estimators": 1000,
+        "n_estimators": 200,
         "subsample": 1,
         "reg_lambda": 1,
         "seed": args.seed,
@@ -62,9 +60,11 @@ if __name__ == '__main__':
         'which_task_value': 2,
         'baseline_alpha': 1.0,
         'baseline_lambda': 1.0,
+        'verbosity': 0,
         'tasks_list_': (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27),
         'task_num_for_init_vec': 28,
         'task_num_for_OLF': 27,
+        'num_task': 28,
     }
 
     folder = args.folder
@@ -74,20 +74,24 @@ if __name__ == '__main__':
 
     fout = open(folder+'result_baseline.csv', 'a')
 
+    # Initialize lists to store all metrics
     final_total_auc = np.empty(0)
     final_total_logloss = np.empty(0)
-    final_total_f1 = np.empty(0)
+    final_total_f1_macro = np.empty(0)
+    final_total_f1_pos = np.empty(0)
+    final_total_accuracy = np.empty(0)
+    final_total_precision = np.empty(0)
+    final_total_recall = np.empty(0)
 
     for event in range(47):
-
         # load data
         dtrain = xgb.DMatrix(data_folder + '{}_train.data'.format(event))
-        dtest = xgb.DMatrix(data_folder + '{}_val.data'.format(event))
+        dtest = xgb.DMatrix(data_folder + '{}_test.data'.format(event))
         deval = xgb.DMatrix(data_folder + '{}_val.data'.format(event))
         
         # train
         evallist = [(dtrain, 'train'), (deval, 'eval')]
-        bst = xgb.train(param, dtrain, 1000 , early_stopping_rounds= 200, evals=evallist)
+        bst = xgb.train(param, dtrain, 100, early_stopping_rounds=10, evals=evallist)
 
         y_real = dtest.get_label()
         y_score = bst.predict(dtest, ntree_limit=bst.best_ntree_limit)
@@ -95,18 +99,32 @@ if __name__ == '__main__':
         # Predict binary outcomes instead of probabilities
         y_pred = [1 if score >= 0.5 else 0 for score in y_score]
 
-        # compute ROC
+        # compute metrics
         fpr, tpr, thresholds = roc_curve(y_real, y_score, pos_label=1)
         all_roc_auc = auc(fpr, tpr)
         all_logloss = log_loss(y_real, y_score)
-        all_f1_score = f1_score(y_real, y_pred, average='macro')
+        all_f1_macro = f1_score(y_real, y_pred, pos_label=1, average='macro')
+        all_f1_pos = f1_score(y_real, y_pred, pos_label=1, average='binary')
+        all_accuracy = accuracy_score(y_real, y_pred)
+        all_precision = precision_score(y_real, y_pred, pos_label=1, average='macro')
+        all_recall = recall_score(y_real, y_pred, pos_label=1, average='macro')
 
+        # Store metrics
         final_total_auc = np.append(final_total_auc, all_roc_auc)
         final_total_logloss = np.append(final_total_logloss, all_logloss)
-        final_total_f1 = np.append(final_total_f1, all_f1_score)
+        final_total_f1_macro = np.append(final_total_f1_macro, all_f1_macro)
+        final_total_f1_pos = np.append(final_total_f1_pos, all_f1_pos)
+        final_total_accuracy = np.append(final_total_accuracy, all_accuracy)
+        final_total_precision = np.append(final_total_precision, all_precision)
+        final_total_recall = np.append(final_total_recall, all_recall)
 
-        fout.write("Round{}, ROCAUC{}, LOGLOSS{}, F1 SCORE{},\n".format(event, all_roc_auc, all_logloss, all_f1_score))
+        # Write results
+        fout.write("Round{}, ROCAUC{}, LOGLOSS{}, F1 MACRO{}, F1 POS{}, ACCURACY{}, PRECISION{}, RECALL{}\n".format(
+            event, all_roc_auc, all_logloss, all_f1_macro, all_f1_pos, all_accuracy, all_precision, all_recall))
 
-    fout.write("TOTAL All round, ROCAUC{}, LOGLOSS{}, F1 SCORE{},\n".format(final_total_auc, final_total_logloss, final_total_f1))
-    fout.write("Mean Auc {},  Mean logloss {}, Mean F1 {},\n".format(np.mean(final_total_auc), np.mean(final_total_logloss), np.mean(final_total_f1)))
+    # Write overall results
+    fout.write("TOTAL All round, ROCAUC{}, LOGLOSS{}, F1 MACRO{}, F1 POS{}, ACCURACY{}, PRECISION{}, RECALL{}\n".format(
+        np.mean(final_total_auc), np.mean(final_total_logloss), np.mean(final_total_f1_macro), np.mean(final_total_f1_pos),
+        np.mean(final_total_accuracy), np.mean(final_total_precision), np.mean(final_total_recall)))
+
     fout.close()
