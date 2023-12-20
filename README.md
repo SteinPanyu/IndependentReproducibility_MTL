@@ -8,11 +8,6 @@ We facilitate this by categorizing individuals into clusters based on similar pe
 
 Each section of this repository requires a seperate enviornment due to the use of a personalized versions of common libraries.
 
-## Contributors
-
-Panyu Zhang,
-Uzair Ahmed
-
 ## License
 
 Mention the license under which the project is distributed.
